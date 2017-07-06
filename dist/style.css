@@ -17544,6 +17544,9 @@ h1 {
 h1, h2, h3, h4 {
   font-family: 'Oswald', sans-serif; }
 
+.uk-section-primary .uk-navbar-container {
+  background: #1e87f0; }
+
 html {
   font-size: 62.5%; }
 
