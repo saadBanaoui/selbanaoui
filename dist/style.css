@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,600);@charset "UTF-8";
 /* ========================================================================
    Component: Base
  ========================================================================== */
@@ -17528,5 +17528,32 @@ td.uk-text-break {
   h2,
   h3 {
     page-break-after: avoid; } }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.4rem;
+  font-family: 'Droid Sans', sans-serif; }
+
+/* =14px */
+h1 {
+  font-size: 2.4rem; }
+
+/* =24px */
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.4rem; }
+
+/* =14px */
+h1 {
+  font-size: 2.4rem; }
+
+/* =24px */
 
 /*# sourceMappingURL=style.css.map*/

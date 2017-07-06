@@ -1,0 +1,13 @@
+html { font-size: 62.5%; } 
+body { 
+    font-size: 1.4rem; 
+    font-family: 'Droid Sans', sans-serif;
+} /* =14px */
+h1   { font-size: 2.4rem; } /* =24px */
+h1, h2, h3, h4{
+    font-family: 'Oswald', sans-serif;
+}
+
+.uk-section-primary .uk-navbar-container{
+    background: $global-primary-background;
+}

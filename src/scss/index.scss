@@ -6,3 +6,10 @@
 @import '../../node_modules/uikit/src/scss/mixins-theme.scss';
 @import '../../node_modules/uikit/src/scss/uikit-theme.scss';
 @import '../../node_modules/uikit/src/scss/mixins.scss';
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald:400,600');
+
+@import '_main.scss';
+@import '_typo.scss';
