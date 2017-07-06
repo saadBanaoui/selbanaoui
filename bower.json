@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "homepage": "https://github.com/saadBanaoui/selbanaoui",
+  "authors": [
+    "Saad <se@kapt.mobi>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "^3.0.0"
+  }
+}

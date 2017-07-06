@@ -4,9 +4,26 @@
         <title></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
+        <link href="" rel="stylesheet">
+        <link rel="stylesheet" href="node_modules/uikit/dist/css/uikit.min.css">
     </head>
     <body>
-        <h1>Saad el banaoui</h1>
+        <nav class="uk-navbar-container" uk-navbar>
+            <div class="uk-navbar-left">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-active"><a href="" uk-icon="icon: check">Test</a></li>
+                    <li class="uk-parent"><a href="">Test2</a></li>
+                    <li><a href=""></a></li>
+                </ul>
+            </div>
+        </nav>
+        <h1 class="uk-heading-primary">Saad el banaoui</h1>
+        <div class="uk-height-large uk-background-cover uk-light uk-flex" uk-parallax="bgy: -200" style="background-image: url('src/images/dark.jpg');">
+
+            <h2 class="uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-vertical">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, recusandae ut ipsam, sapiente autem sed esse quibusdam et facere. Beatae similique, sequi quos officia saepe autem incidunt. Officia, amet, repellat.</h2>
+
+        </div>
+        
+        <script src="app/bundle.js"></script>
     </body>
 </html>
