@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/saadBanaoui/selbanaoui/issues"
   },
-  "homepage": "https://github.com/saadBanaoui/selbanaoui#readme"
+  "homepage": "https://github.com/saadBanaoui/selbanaoui#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
 }
